@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ea8b95d-9203-4b0e-9516-d3ab1808d678" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/prueba_basedatos.py" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_basedatos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actualizar_uno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actualizar_varios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eliminar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insertar_datos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insertar_registros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,9 +106,9 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="411" y="0" key="#seleccionar_uno/0.0.1360.728@0.0.1360.728" timestamp="1594651015197" />
-    <state x="376" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1594658299880">
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1594731806972">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="376" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1594658299880" />
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1594731806972" />
   </component>
 </project>
